@@ -1,0 +1,7 @@
+
+//Ejemplo inválido: error léxico
+
+robot Tito
+forward @10
+return base
+

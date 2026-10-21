@@ -1,0 +1,6 @@
+//Ejemplo inválido: error sintáctico
+
+
+robot Tito
+forward 10 +
+return base

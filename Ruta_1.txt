@@ -1,0 +1,15 @@
+//Ejemplo válido: programa completo
+robot Tito
+speed = 2
+forward 10 * speed + 5
+turn right
+repeat 3 {
+    forward 2
+    turn left
+}
+if front_sensor < 30 then
+    stop
+else
+    forward 1
+end
+return base

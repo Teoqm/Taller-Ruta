@@ -1,0 +1,6 @@
+//Ejemplo de expresiones aritméticas
+robot Tito
+speed = 2
+forward 10 + 2 * 3
+return base
+
